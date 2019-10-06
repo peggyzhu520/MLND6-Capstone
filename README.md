@@ -22,20 +22,25 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [xgboost] (https://xgboost.readthedocs.io/en/latest/)
-- [hyperopt] (https://github.com/hyperopt/hyperopt)
+- [xgboost](https://xgboost.readthedocs.io/en/latest/)
+- [hyperopt](https://github.com/hyperopt/hyperopt)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook for benchmark model MLND - Capstone Project- Benchmark v2.ipynb
 ```  
-or
+and 
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook for chanllenger model MLND - Capstone Project - Challenger Models v2.ipynb
 ```
+and 
+```bash
+read pdf for summary of this project
+```
+
 
 This will open the iPython Notebook software and project file in your browser.
 
